@@ -1,0 +1,4 @@
+name: spark
+summary: Interface for spark master <-> worker relation
+version: 1
+repo: https://github.com/omnivector-solutions/interface-spark
